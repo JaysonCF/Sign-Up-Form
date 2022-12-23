@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Norse Bold";
+    src: url("/fonts/Norse-Bold.otf");
+}
+
+html, body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url("/images/backsuf.avif");
+    font-family: "Norse Bold";
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.form-header {
+    text-align: center;
+}
+
+legend {
+    font-size: 18px;
+}
+
+
+
